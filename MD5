@@ -1,0 +1,15 @@
+1f720045f5586b194aef179f8f574b58 *DESCRIPTION
+f1294d7e6dff874ec32563d02c6f202d *NAMESPACE
+34fad319c569e260036d824005017ec9 *NEWS.md
+348b5fa0bb7be04383219d61df0c201e *R/fetch_salesforce.R
+0999190d03364ff37bfdd3294f9f3e9e *R/my_salesforce_data.R
+640fb52a7883c11260a265115494e4ba *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+c2442d079fbdbca84c45bbbeaa0349b4 *data/my_salesforce_data.RData
+2c742a0140710880e82853d1249eda86 *inst/doc/tutorial.R
+bf2241a8dd9d703652bd95b7296f730c *inst/doc/tutorial.Rmd
+fe3a6d0fdefbdfa432f1dea59ba3c4b8 *inst/doc/tutorial.html
+ae46b945a3763f60881e67d43d7325df *man/fetch_salesforce.Rd
+71345f2dbfbe83c9d45826014af21fbf *man/my_salesforce_data.Rd
+c2442d079fbdbca84c45bbbeaa0349b4 *vignettes/my_salesforce_data.RData
+bf2241a8dd9d703652bd95b7296f730c *vignettes/tutorial.Rmd
